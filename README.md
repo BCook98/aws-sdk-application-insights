@@ -3,6 +3,8 @@
 1. `npm install`
 2. `npm start`
 
+Note: There is no need to add a bucket name, s3 keys or app insights keys, the code will fail just the same.
+
 Outputs:
 
 ```
